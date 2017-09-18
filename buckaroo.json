@@ -1,0 +1,6 @@
+{
+  "name": "sqlpp11-connector-postgresql",
+  "dependencies": {
+    "rbock/sqlpp11": "0.45.0"
+  }
+}

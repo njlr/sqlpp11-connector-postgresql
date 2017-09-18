@@ -25,3 +25,10 @@
 config.log
 .sconf_temp
 .sconsign.dblite
+
+# Buck
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
