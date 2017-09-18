@@ -12,7 +12,7 @@ cxx_library(
   srcs = glob([
     'src/**/*.cpp',
   ]),
-  deps = BUCKAROO_DEPS, 
+  deps = BUCKAROO_DEPS,
   visibility = [
     'PUBLIC',
   ],

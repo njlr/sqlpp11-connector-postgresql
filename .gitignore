@@ -32,3 +32,4 @@ config.log
 /buckaroo/
 .buckconfig.local
 BUCKAROO_DEPS
+buckaroo*.log
